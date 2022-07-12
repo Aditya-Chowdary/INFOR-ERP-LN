@@ -90,10 +90,13 @@ MAKE TO STOCK
 
 MARKET TO CASH:
 Market to cash is a cycle where sales representers goes to the market to get orders from the customers, when the customer interested in the product, sales representative gives a quotation to a customer and the customer will gives a purchase order.
+
 ORDER TO CASH:
 When a company got an order they check for stock availability, if stock is not available in bulk warehouse ,they check for raw materials to build product is enough or not if it is not enough they will inform to purchase department, then purchase department goes to a vendor for a procurement of raw material and gives a purchase order to a vendor then the inspection department checks the quality and quantity of material and on time delivery or not, if it is passed in inspection it will forwarded to manufacturing department and the product start building after completion, inspection team again checks the product for quality if it is passed there also it goes to the bulk warehouse from there to customer, if the product not qualified quality test that product goes to the scrap warehouse and scrapped it, and they store the extracted material in raw material warehouse and reuse it. If raw materials are not passed in inspection, materials will dump into quarantine warehouse, and they inform to purchase department and the purchase department goes to the vendor and asks about the quality of raw materials if the vendor accepts for replace, they replace it otherwise they send it to scrap warehouse to sell or trash.                   
+
 PROCURE TO PAY:
 if there is a not enough raw materials to build a product then the purchase department goes to vendor for goods and gives a purchase order, based on payment terms they pay to vendors.
+
 MAKE TO STOCK:
 Based on the previous forecast orders and demand forecast and sales history they produce products and store it.
 COMPANIES
