@@ -355,27 +355,48 @@ DEPARTMENTS
 ITEM TYPES
 
 PURCHASED – The items that we purchased from supplier 
+
 MANFACTURED – the item that built by us it consists of (bill of material) we can procure the item also
-COST – intangible items electrical charges and other charges machinery charges while we are taking machinery and building because we need to maintain so they make as cost item based on all expenses cost calculation differs by item classification
+
+COST – intangible items electrical charges and other charges machinery charges while we are taking machinery and building because we need to maintain so they make as 
+cost item based on all expenses cost calculation differs by item classification
+
 GENERIC – different categories of product based on their requirements they made it differ from product to product like colours like bike colours
+
 SERVICE – warranty about the product and service
+
 SUBCONTRACTED – if our work was done some other people on money basis 
+
 LIST – it consists of belonging items example (TOOL KIT) based on related items we make a list of a product
+
 ENGINEERING MODULE – test and compare with another product
 
 ITEM GROUPS (PRODUCT TYPE, PRODUCT CLASS)
+
 ITEMS SUBENTITIES 
 
 (ORDERING, COSTING, WAREHOUSING)
+
 ITEM PURCHASE – All details related to the purchase activities
+
 ITEM SALES – All activities related to sales
+
 ITEM PRODUCTION – All details of manufacturing and processes involved in it
+
 ITEM ORDERING – All related to amount of quantity of ordering
+
 ITEM COSTING – after all sub entities we estimate a price of product in our LN based on all expenses 
+
 ITEM PLANNING – This will help us to plan a production on which time we need to delivery that order
+
 ITEM WAREHOUSING – This will do multiple tasks like it will decide which product is to (outbound method) like first in and first out
+
 ITEM PROJECT – it has 2 types (existence manufacturing project)
+
 ITEM QUALITY – quality assurance
+
 ITEM SERVICE – warranty of a product and service of a product and how to claim the warranty
+
 ITEM FREIGHT – Transportation and delivery details
+
 ITEM LOCALIZATION
