@@ -398,4 +398,4 @@ ITEM SERVICE – warranty of a product and service of a product and how to claim
 
 ITEM FREIGHT – Transportation and delivery details
 
-ITEM LOCALIZATION
+ITEM LOCALIZATION -
